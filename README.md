@@ -4,5 +4,3 @@
 ---
 
 demo:[https://yiiu.github.io/vue-douban/dist/](https://yiiu.github.io/vue-douban/dist/)
-
-未完成待续。
